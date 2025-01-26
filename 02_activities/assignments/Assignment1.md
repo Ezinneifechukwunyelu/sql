@@ -191,7 +191,7 @@ You can start this section anytime.
 Steps to complete this part of the assignment:
 - Read the article
 - Write, within this markdown file, <1000 words.
-
+  
 ### Ethics
 
 Read: Qadri, R. (2021, November 11). _When Databases Get to Define Family._  Wired. <br>
@@ -200,7 +200,7 @@ Read: Qadri, R. (2021, November 11). _When Databases Get to Define Family._  Wir
 Link if you encounter a paywall: https://web.archive.org/web/20240422105834/https://www.wired.com/story/pakistan-digital-database-family-design/
 
 **What values systems are embedded in databases and data systems you encounter in your day-to-day life?**
-
+One of such value system is the assumption that children and parents should have the same surname and siblings from the same father and/or mother should have the same surname as well. This is evident in immigration systems in various countries. But my personal experince are in Nigeria and Canada.
 Consider, for example, concepts of fariness, inequality, social structures, marginalization, intersection of technology and society, etc.
 
 
