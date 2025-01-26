@@ -200,7 +200,14 @@ Read: Qadri, R. (2021, November 11). _When Databases Get to Define Family._  Wir
 Link if you encounter a paywall: https://web.archive.org/web/20240422105834/https://www.wired.com/story/pakistan-digital-database-family-design/
 
 **What values systems are embedded in databases and data systems you encounter in your day-to-day life?**
-One of such value system is the assumption that children and parents should have the same surname and siblings from the same father and/or mother should have the same surname as well. This is evident in immigration systems in various countries. But my personal experince are in Nigeria and Canada.
+One of such value system is the assumption that children and parents should have the same surname and siblings from the same father and/or mother should have the same surname as well. This is often encoded in immigration data systems in various countries. But my personal experience are in Nigeria and Canada. The assumption in both countries assume a specific and rigid idea of how families work and generalize a traditional naming practice that lineages will always be patrilineal regardless of culture, country, sub regions and tribes within countries, families etc. Thus, siblings and their mothers should have the same surname as their father. This was made clear to me during various registration processes in Nigeria and immigration process to Canada.
+
+I and my siblings do not have the same surname as my parents. Our surname is our grandfather’s first name. This meant that me and my siblings always has to go through an additional legal and sometimes traditional process to demonstrate that we are our parents children even though it is evident in our birth certificates (which many government parastatals assume can be faked). Furthermore the type of verification process required varied from government agency to agency within Nigeria and varied between Nigeria and Canada. Often times this process will have to be repeated again depending on how long ago the last process was done. For example, using five year old court affidavit was unacceptable to the Canadian immigration process where as in Nigeria, a letter from your community of origin is required in addition to any court affidavit. In many instances individual affidavits were required for all siblings.
+
+Interestingly in Canada I assumed that this would not be an issue as the country recognizes a variety of non-traditional family configurations. However, it seemed that the Canadian immigration system made the assumption that non-traditional family naming convention was not obtainable in an African country such as Nigeria due to the assumption that Nigeria is an overly religious, conservative and corrupt nation. This resulted in an overly complicated immigration process for me and additional cost in obtaining a court affidavit in addition to my birth certificate.
+
+
+
 Consider, for example, concepts of fariness, inequality, social structures, marginalization, intersection of technology and society, etc.
 
 
