@@ -182,5 +182,9 @@ Consider, for example, concepts of labour, bias, LLM proliferation, moderating c
 
 
 ```
-Your thoughts...
+Fairness and Bias
+One of the ethical issues mentioned in the story is the problem of fairness, how to ensure that training data sets are a fair representation of an idea or concept.
+Furthermore, there is a question of ensuring that a data set is representative of the population, social, economic and cultural environment in which the model exists. 
+Contrary to popular opinion, fairness is no a difficult thing to achieve, the key obstacle to achieving fairness is the absence of acknowledging that the absence of fairness is a problem or an ethical issue. If this is acknowledged then consistent efforts can be put towards ensuring that training sets are fair.
+
 ```
